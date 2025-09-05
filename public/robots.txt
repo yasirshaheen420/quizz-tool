@@ -1,0 +1,52 @@
+User-agent: *
+Allow: /
+Sitemap: https://quizmaster.com/sitemap.xml
+
+# Crawling Rules
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+
+# Googlebot Specific Rules
+User-agent: Googlebot
+Allow: /
+
+# Bingbot Specific Rules
+User-agent: Bingbot
+Allow: /
+
+# Yandexbot Specific Rules
+User-agent: Yandex
+Allow: /
+
+# Baidu Spider Rules
+User-agent: Baiduspider
+Allow: /
+
+# Yahoo Slurp Rules
+User-agent: Yahoo
+Allow: /
+
+# Alexa Crawler Rules
+User-agent: ia_archiver
+Allow: /
+
+# Semrushbot Rules
+User-agent: SemrushBot
+Allow: /
+
+# Ahrefsbot Rules
+User-agent: AhrefsBot
+Allow: /
+
+# Majestic12 Rules
+User-agent: MJ12bot
+Allow: /
+
+# Googlebot-Mobile Rules
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Googlebot-Image Rules
+User-agent: Googlebot-Image
+Allow: /
