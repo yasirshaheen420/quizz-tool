@@ -44,8 +44,7 @@ export default function RootLayout({
 	return (
 		<html lang='en' suppressHydrationWarning>
 			<head>
-				{/* Search Console Verification */}
-				<meta name="google-site-verification" content="XGl-UHsUrh8Q9inlYbtybxRRP49xOmEklgpIb2auUvQ"
+				<meta name="google-site-verification" content="XGl-UHsUrh8Q9inlYbtybxRRP49xOmEklgpIb2auUvQ" />
 
 				{/* Google Analytics */}
 				<script
