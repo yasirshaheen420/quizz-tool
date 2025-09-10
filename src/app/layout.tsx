@@ -62,10 +62,8 @@ export default function RootLayout({
 				/>
 
 				{/* Google AdSense */}
-				<script
-					async
-					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=YOUR_GOOGLE_ADSENSE_ID'
-					crossOrigin='anonymous'></script>
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3790073868995630"
+     crossorigin="anonymous"></script>
 
 				{/* SEO Meta Tags */}
 				<meta
